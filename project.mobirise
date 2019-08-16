@@ -78,7 +78,7 @@
     "uniqCompNum": 52,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/everprate-128x103.png",
+    "favicon": "",
     "noImageResize": ""
   },
   "pages": {
